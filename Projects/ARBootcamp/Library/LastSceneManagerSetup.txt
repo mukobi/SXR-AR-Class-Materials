@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Week 4/Graphics and Rendering/End/Scenes/Graphics End.unity
+- path: Assets/Week 2/TapToPlace.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

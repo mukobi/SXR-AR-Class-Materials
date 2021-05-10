@@ -30,7 +30,10 @@ public class TapToPlaceAnchor : MonoBehaviour
         m_AnchorsList = new List<ARAnchor>();
     }
 
-
+    private void OnDestroy()
+    {
+        
+    }
     bool TryGetTouchPosition(out Vector2 touchPosition)
     {
         if (Input.touchCount > 0)
