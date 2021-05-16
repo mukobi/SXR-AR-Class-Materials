@@ -6,16 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Week 3/Image Tracking/Image Tracking.unity
+    path: Assets/Curriculum/Week 4 Image Tracking/Scenes/Image Tracking.unity
     guid: 631a1c7df6cf10747ba80a2cefef8bfe
   - enabled: 1
-    path: Assets/CurrentWork/Scenes/New Scene.unity
+    path: Assets/Playground/Scenes/New Scene.unity
     guid: f3786c3105e172245977a8b4fd4a188a
   - enabled: 1
-    path: Assets/CurrentWork/Scenes/Main.unity
+    path: Assets/Playground/Scenes/Main.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Week 4/Graphics and Rendering/Demo/Scenes/Graphics Demo.unity
+    path: Assets/Curriculum/Week 7 Graphics/Demo/Scenes/Graphics Demo.unity
     guid: 7c23a1a72fe424244ae018d7f74793c3
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a4677272023be0546bb3b16936e7f426,
