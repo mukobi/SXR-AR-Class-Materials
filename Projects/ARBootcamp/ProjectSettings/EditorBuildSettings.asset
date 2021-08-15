@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Curriculum/Week 7 Graphics/End/Scenes/7.6 DepthOcclusion Graphics.unity
+    guid: d539971d840eb5c4698215c01dac1e69
+  - enabled: 1
     path: Assets/Curriculum/Week 7 Graphics/End/Scenes/7.5 BlobShadows Graphics.unity
     guid: 5ebe8ce7ec719c5438c26f0197c30a58
   - enabled: 1
