@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Curriculum/Week 7 Graphics/End/Scenes/7.5 BlobShadows Graphics.unity
+    guid: 5ebe8ce7ec719c5438c26f0197c30a58
+  - enabled: 1
     path: Assets/Curriculum/Week 7 Graphics/End/Scenes/7.4 RealShadows Graphics.unity
     guid: 4fa6a93710acfa04187937e3ccfe297a
   - enabled: 1
