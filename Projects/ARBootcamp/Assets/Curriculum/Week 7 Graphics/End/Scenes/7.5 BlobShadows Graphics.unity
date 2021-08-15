@@ -533,6 +533,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: JangoProjector
       objectReference: {fileID: 0}
+    - target: {fileID: 8648980267690245007, guid: a4a2034de730fd94194942c317aa54a8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a4a2034de730fd94194942c317aa54a8, type: 3}
 --- !u!1 &1207990742
