@@ -250,6 +250,42 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 922895479859152058, guid: 9ebb6ca65d289f241aad156caeaebbad, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 922895479859152058, guid: 9ebb6ca65d289f241aad156caeaebbad, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3012286172714968515, guid: 9ebb6ca65d289f241aad156caeaebbad, type: 3}
+      propertyPath: m_AdditionalShaderChannelsFlag
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323148420215313344, guid: 9ebb6ca65d289f241aad156caeaebbad, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323148420215313344, guid: 9ebb6ca65d289f241aad156caeaebbad, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323148420215313344, guid: 9ebb6ca65d289f241aad156caeaebbad, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323148420215313344, guid: 9ebb6ca65d289f241aad156caeaebbad, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323148420215313344, guid: 9ebb6ca65d289f241aad156caeaebbad, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4323148420215313344, guid: 9ebb6ca65d289f241aad156caeaebbad, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6638219733205425523, guid: 9ebb6ca65d289f241aad156caeaebbad, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -517,7 +553,7 @@ MonoBehaviour:
   m_AutomaticPlacement: 1
   m_EnvironmentTextureFilterMode: 2
   m_EnvironmentTextureHDR: 1
-  m_DebugPrefab: {fileID: 0}
+  m_DebugPrefab: {fileID: 4582649623463425513, guid: a5dad2804f571ff418238e3ae5e427c9, type: 3}
 --- !u!1 &1207990742
 GameObject:
   m_ObjectHideFlags: 0

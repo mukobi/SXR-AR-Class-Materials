@@ -256,8 +256,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b15f82cc229284894964d2d30806969d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_HumanSegmentationStencilMode: 1
-  m_HumanSegmentationDepthMode: 1
+  m_HumanSegmentationStencilMode: 3
+  m_HumanSegmentationDepthMode: 2
   m_EnvironmentDepthMode: 3
   m_OcclusionPreferenceMode: 0
 --- !u!1001 &118621892
@@ -270,6 +270,10 @@ PrefabInstance:
     - target: {fileID: 179171226110468831, guid: b13225e8718873144ae8e7f87a96d3b6, type: 3}
       propertyPath: m_Name
       value: AR Shadow Plane
+      objectReference: {fileID: 0}
+    - target: {fileID: 179171226110468831, guid: b13225e8718873144ae8e7f87a96d3b6, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5026044218172028151, guid: b13225e8718873144ae8e7f87a96d3b6, type: 3}
       propertyPath: m_RootOrder
@@ -844,7 +848,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 548918572155116297, guid: 9b975a6a85c877b4f8a3cd6aca7c012e, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 924915936955974067, guid: 9b975a6a85c877b4f8a3cd6aca7c012e, type: 3}
       propertyPath: m_RootOrder
