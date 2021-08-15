@@ -6,12 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Curriculum/Week 3 Plane Tracking/3.1 CameraPassthrough.unity
-    guid: c331b9a75188c0f4d81a9980090ef323
-  - enabled: 1
-    path: Assets/Curriculum/Week 7 Graphics/End/Scenes/7.1 Base Graphics.unity
-    guid: a377d70832f19ce46a6fe46f5f50a96c
-  - enabled: 1
     path: Assets/Curriculum/Week 7 Graphics/End/Scenes/7.4 RealShadows Graphics.unity
     guid: 4fa6a93710acfa04187937e3ccfe297a
   - enabled: 1
@@ -21,8 +15,14 @@ EditorBuildSettings:
     path: Assets/Curriculum/Week 7 Graphics/End/Scenes/7.2 LightEst Graphics.unity
     guid: 46f0f28dd36e9014c9e6a8e9453387d0
   - enabled: 1
+    path: Assets/Curriculum/Week 7 Graphics/End/Scenes/7.1 Base Graphics.unity
+    guid: a377d70832f19ce46a6fe46f5f50a96c
+  - enabled: 1
     path: Assets/Curriculum/Week 3 Plane Tracking/3.2 TapToPlacePlane.unity
     guid: 8e11b273a613d494f9b5457a19ac335b
+  - enabled: 1
+    path: Assets/Curriculum/Week 3 Plane Tracking/3.1 CameraPassthrough.unity
+    guid: c331b9a75188c0f4d81a9980090ef323
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a4677272023be0546bb3b16936e7f426, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f9cadb0958f33b941b074db0871e2d3f, type: 2}
